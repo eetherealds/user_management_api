@@ -4,6 +4,8 @@
 
 ## 2. Buat Folder dan File
 
+<img width="206" height="596" alt="image" src="https://github.com/user-attachments/assets/89f22c0b-1c1f-4838-ac70-c63eb1db01bc" />
+
 ## 3. Buat Database
 
 buat database dengan nama `ecommerce` lalu buat tabel `username`, `email`, `password`, `role`, `avatar_url`, `created_at`, `updated_at`.
@@ -26,27 +28,27 @@ jalankan program menggunakan `npm start`, server akan berjalan di **http://local
 
 ### Valid Register
 
-<img width="1270" height="717" alt="image" src="https://github.com/user-attachments/assets/e8f7ba58-6ebf-4144-9171-7df7cb8f4d76" />
+<img width="1270" height="717" alt="Screenshot 2025-10-22 220549" src="https://github.com/user-attachments/assets/2447a1d3-e37d-491c-b279-dcdb7fed0db6" />
 
 ### Invalid Register
 
-<img width="1275" height="800" alt="image" src="https://github.com/user-attachments/assets/41a79eab-5671-456e-894c-ae64254bcd65" />
+<img width="1275" height="800" alt="Screenshot 2025-10-22 220657" src="https://github.com/user-attachments/assets/ac87309e-36aa-4d43-bb9d-c17399017ee9" />
 
 ### Valid Login
 
-<img width="1263" height="724" alt="image" src="https://github.com/user-attachments/assets/b66e78c2-c158-499d-8ab7-ec0b87cc45ae" />
+<img width="1263" height="724" alt="Screenshot 2025-10-22 220732" src="https://github.com/user-attachments/assets/935d218a-530b-4fad-aea7-4fc7a320dff2" />
 
 ### Invalid Login
 
-<img width="1276" height="621" alt="image" src="https://github.com/user-attachments/assets/5e0561f5-2616-4f57-9a3d-6b1e3da148c2" />
+<img width="1276" height="621" alt="Screenshot 2025-10-22 220831" src="https://github.com/user-attachments/assets/87f7721e-8f8c-4348-b2b4-6845fea07329" />
 
 ### Update Profile
 
-<img width="1277" height="752" alt="image" src="https://github.com/user-attachments/assets/ebdd8f3c-cf0d-47c8-afa6-172d5c2ff00e" />
+<img width="1277" height="752" alt="Screenshot 2025-10-22 220920" src="https://github.com/user-attachments/assets/5956946d-4bc6-4531-92cb-e402009bf697" />
 
 ## 8. Tampilan di Postgre
 
-<img width="1603" height="387" alt="image" src="https://github.com/user-attachments/assets/0f6bd002-c495-448b-9119-01cee74b7bee" />
+<img width="1603" height="387" alt="Screenshot 2025-10-22 221028" src="https://github.com/user-attachments/assets/3f8da9f6-78fa-4bd6-af4d-97366324e888" />
 
 
 
